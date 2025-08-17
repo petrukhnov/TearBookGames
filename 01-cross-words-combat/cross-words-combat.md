@@ -55,3 +55,6 @@ Sometimes game could be slow, as people can't keep all available words in memory
 - Pick pages with smaller number of rows.
 
 
+## Example of the gameplay
+
+[example1.md](example1.md)

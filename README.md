@@ -5,4 +5,4 @@ Series of games that could be played with books, as a source for generated conte
 
 Game list:
 
-[cross-wrods-combat.md](01-cross-words-combat/cross-wrods-combat.md)
+[cross-words-combat.md](01-cross-words-combat/cross-words-combat.md)
