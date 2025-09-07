@@ -6,3 +6,6 @@ Series of games that could be played with books, as a source for generated conte
 Game list:
 
 [cross-words-combat.md](01-cross-words-combat/cross-words-combat.md)
+
+[similar-words.md](02-similar-words/similar-words.md)
+
